@@ -1,4 +1,4 @@
-Hi, I'm Tejas Chandrakant Thakare. I am currently pursuing Masters of Science in Physics. Apart from physics, I find myself doing stuffs like short writings, technical stuffs, listening musics and discussions on ideas, history and social behaviour.  
+Hi, I'm Tejas Chandrakant Thakare. I am currently pursuing Masters of Science in Physics. Apart from physics, I find myself doing stuffs like short writing, technical stuffs, listening to music and discussion on ideas, history and social behaviour.  
 
 # **Some stuffs that I did in past and still doing..**
   * "On the Dark Covering Capacity of Light and the Unification of Dark with Light", [see here](https://vixra.org/abs/1803.0217)
@@ -8,6 +8,6 @@ Hi, I'm Tejas Chandrakant Thakare. I am currently pursuing Masters of Science in
   * "The wave equation approach to the continuity equation in quantum mechanics", [see here](http://doi.org/10.5281/zenodo.3838053)
   
   
-  # **Contact me**
-  * tejas.c.thakare@gmail.com 
+  **Contact me**
+  * [tejas.c.thakare@gmail.com ]
  
