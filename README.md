@@ -9,5 +9,5 @@ Hi, I'm Tejas Chandrakant Thakare. I am currently pursuing Masters of Science in
   
   
   **Contact me**
-  * [tejas.c.thakare@gmail.com ]
+  * [tejas.c.thakare@gmail.com ](tejas.c.thakare@gmail.com)
  
