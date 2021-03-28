@@ -1,4 +1,4 @@
-Hi, I'm Tejas Chandrakant Thakare. I am currently pursuing Masters of Science in Physics. Apart from physics, I find myself doing stuffs like short writing, technical stuffs, listening to music and discussion on ideas, history and social behaviour.  
+Hi, I'm Tejas Chandrakant Thakare. I am currently pursuing Master of Science in Physics. Apart from physics, I find myself doing stuffs like short writing, technical stuffs, listening to music and discussion on ideas, history and social behaviour.  
 
 # **Some stuffs that I did in past and still doing..**
   * "On the Dark Covering Capacity of Light and the Unification of Dark with Light", [see here](https://vixra.org/abs/1803.0217)
