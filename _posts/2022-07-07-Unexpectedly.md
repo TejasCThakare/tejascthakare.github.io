@@ -1,6 +1,6 @@
 ---
 title: Unexpectedly
-authorr: tej
+author: tejas
 date: 2022-07-07
 categories: [Inspiration, Reflection]
 tags: [writing]
