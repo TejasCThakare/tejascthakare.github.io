@@ -1,7 +1,7 @@
 ---
 title: Unexpectedly
 author: tej
-date: 2022-07-027
+date: 2022-07-07
 categories: [Inspiration, Reflection]
 tags: [writing]
 render_with_liquid: false
