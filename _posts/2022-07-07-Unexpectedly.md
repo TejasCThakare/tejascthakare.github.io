@@ -3,7 +3,7 @@ title: Unexpectedly
 author: tejas
 date: 2022-07-07
 categories: [Inspiration, Reflection]
-tags: [writing]
+tags: [Writing]
 render_with_liquid: false
 ---
 ***Inspired from [J.R.R. Tolkien](https://www.tolkiensociety.org/author/biography/)***
