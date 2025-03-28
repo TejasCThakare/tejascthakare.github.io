@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://tejascthakare.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Tech in Electrical Engineering, Indian Institute of Technology Madras, 2023-2025 
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
