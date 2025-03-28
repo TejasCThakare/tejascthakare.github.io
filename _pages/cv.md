@@ -27,7 +27,7 @@ Work experience
 
 * 2022-2023: M.Sc Thesis
   * IIT Bhubaneswar
-  * Worked on CERN particle collision data. Applied ML algorthims to separate the signal and background
+  * Worked on CERN particle collision data. Applied ML models to separate the signal and background
   * Supervisor: Prof. Seema Bahinipati
 
   
