@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://tejascthakare.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://tejascthakare.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://tejascthakare.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://tejascthakare.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://tejascthakare.github.io/year-archive/
     
   - title: "CV"
     url: https://tejascthakare.github.io/cv/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: https://tejascthakare.github.io/cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url: https://tejascthakare.github.io/markdown/
