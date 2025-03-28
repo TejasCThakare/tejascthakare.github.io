@@ -13,7 +13,7 @@ title                    : "Tejas Chandrakant Thakare"
 title_separator          : "-"
 name                     : &name "Tejas Chandrakant Thakare"
 description              : &description "Personal Webpage"
-url                      : "https://tejascthakare.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tejascthakare.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "https://tejascthakare.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "TejasCThakare/tejascthakare.github.io"
 
