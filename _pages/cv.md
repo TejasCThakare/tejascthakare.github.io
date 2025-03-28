@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* M.Tech in Electrical Engineering, Indian Institute of Technology Madras, 2023-2025 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Tech in Electrical Engineering, Indian Institute of Technology (IIT) Madras, 2023-2025 
+* M.Sc in Physics, Indian Institute of Technology (IIT) Bhubaneswar, 2021-2023
+* B.Sc in Physics,Mathematics and Statistics, KTHM College (Pune University), 2017-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2025: M.Tech Thesis
+  * IIT Madras
+  * I am pursuing my Master's research project at the Computational Imaging Lab, IIT Madras.. My research focuses on 3D 
+    High Dynamic Range (HDR) scene reconstruction for both static and dynamic images using Gaussian Splatting.
+    Previously, I have worked on Static and Dynamic HDR NeRF. Additionally, I am working on direct exposure predictions from single LDR images for HDR imaging 
+    using generative models.
+  * Supervisor: Prof. Kaushik Mitra
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023: M.Sc Thesis
+  * IIT Bhubaneswar
+  * Worked on CERN particle collision data. Applied ML algorthims to separate the signal and background
+  * Supervisor: Prof. Seema Bahinipati
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
