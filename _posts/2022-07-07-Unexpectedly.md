@@ -2,7 +2,7 @@
 title: Unexpectedly
 author: tejas
 date: 2022-07-07
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2022-07-07-Unexpectedly.md/
 categories: [Inspiration, Reflection]
 tags: [Writing]
 render_with_liquid: false
