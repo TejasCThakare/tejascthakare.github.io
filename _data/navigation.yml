@@ -11,16 +11,16 @@ main:
   - title: "Publications"
     url: https://tejascthakare.github.io/publications/
 
-  - title: "Talks"
-    url: https://tejascthakare.github.io/talks/    
+  #- title: "Talks"
+    #url: https://tejascthakare.github.io/talks/    
 
-  - title: "Teaching"
-    url: https://tejascthakare.github.io/teaching/    
+  #- title: "Teaching"
+    #url: https://tejascthakare.github.io/teaching/    
     
   - title: "Portfolio"
     url: https://tejascthakare.github.io/portfolio/
         
-  - title: "Blog Posts"
+  - title: "My Blog Posts"
     url: https://tejascthakare.github.io/year-archive/
     
   - title: "CV"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: https://tejascthakare.github.io/cv-json/
     
-  - title: "Guide"
-    url: https://tejascthakare.github.io/markdown/
+  #- title: "Guide"
+    #url: https://tejascthakare.github.io/markdown/
