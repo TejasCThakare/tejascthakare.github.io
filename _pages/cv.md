@@ -11,16 +11,15 @@ redirect_from:
 
 ## Education
 
-* **M.Tech in Electrical Engineering**, Indian Institute of Technology (IIT) Madras, 2023-2025 (CGPA: 7.74)  
-* **M.Sc in Physics**, Indian Institute of Technology (IIT) Bhubaneswar, 2021-2023 (CGPA: 7.84)  
-* **B.Sc in Physics, Mathematics, and Statistics**, KTHM College (Pune University), 2017-2020 (87.26%)  
-* **Class XII (H.S.C)**, KTHM College, Nashik (72.46%)  
-* **Class X (S.S.C)**, L.V.H. Vidhyalay, Nashik (90.20%)  
+* **M.Tech in Electrical Engineering**, Indian Institute of Technology (IIT) Madras, 2023-2025 
+* **M.Sc in Physics**, Indian Institute of Technology (IIT) Bhubaneswar, 2021-2023 
+* **B.Sc in Physics, Mathematics, and Statistics**, KTHM College (Pune University), 2017-2020   
+  
 
 ### Achievements
 * **All India Rank - 617** in **IIT-JAM 2021** Entrance Examination conducted by IISc Bangalore.  
 * **First Prize** in **Poster Presentation Competition** Held at Sandip University, Nashik.  
-* **Published 3 Scientific Articles** during B.Sc.  
+  
 
 ## Work Experience
 
