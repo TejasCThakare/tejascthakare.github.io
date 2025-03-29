@@ -95,23 +95,6 @@ redirect_from:
 * Linear Algebra (B.Sc. + M.Sc.)  
 * Atomistic Simulations with Python (M.Sc. Course)  
 
-## Publications
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-## Talks
-
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html  %}
-{% endfor %}</ul>
-
-## Teaching
-
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
 
 ## Service and Leadership
 
@@ -121,5 +104,4 @@ redirect_from:
 
 ---
 
-**LinkedIn:** [Tejas Thakare](https://www.linkedin.com/in/tejas-t-722758204/)  
-**GitHub:** [TejasCThakare](https://github.com/TejasCThakare)  
+  
