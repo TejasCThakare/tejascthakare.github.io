@@ -1,6 +1,6 @@
 ---
 title: "The Leap of faith"
-excerpt: First Edition"<br/><img src='/images/tejasiitm-500x300.jpg'>"
+excerpt: "First Edition<br/><img src='/images/tejasiitm-500x300.jpg'>"
 collection: portfolio
 ---
 
