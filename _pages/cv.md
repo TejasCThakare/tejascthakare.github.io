@@ -119,7 +119,8 @@ redirect_from:
 ## Service and Leadership  
 
 * **Student Placement Coordinator:** Managed placement season for **200+ students** at IIT Bhubaneswar.  
-* **Assistant Coordinator, Counseling Service Team:** Guided **80+ freshers** on campus at IIT Bhubaneswar.  
+* **Assistant Coordinator, Counseling Service Team:** Guided **80+ freshers** on campus at IIT Bhubaneswar.
+* **Teaching Assistance** for **Modern Computer Vision** course by Prof. Kaushik Mitra , IIT Madras  
 
 
 ---
