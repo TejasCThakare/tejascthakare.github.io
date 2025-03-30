@@ -4,7 +4,7 @@ excerpt: "High Dynamic Range-Very Cool <br/><img src='/images/lowexpiitm-500x300
 collection: portfolio
 ---
 <br/><img src='/images/lowexpiitm-500x300.jpg'><br/> 
-<sub>Low Exposure Image Captured from iPhone14<sub/>
+<sub>Low Exposure Image<sub/>
 
 Take the phone camera, point it at the scene where there are light sources and also darkness (i.e., proper coverage of all intensities), and then capture it. The captured picture will have high saturation around the bright light sources and nearly invisible or partially visible areas where the intensity is low.
 
