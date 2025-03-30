@@ -1,6 +1,6 @@
 ---
-title: "Few Photons to pass"
-excerpt: "High Dynamic Range-Very Cool <br/><img src='/images/lowexpiitm-500x300.jpg'>"
+title: "High Dynamic Range-Very Cool"
+excerpt: "Computational Imaging <br/><img src='/images/lowexpiitm-500x300.jpg'>"
 collection: portfolio
 ---
 <br/><img src='/images/lowexpiitm-500x300.jpg'><br/> 
