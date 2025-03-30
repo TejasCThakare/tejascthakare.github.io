@@ -17,5 +17,5 @@ This process results in a stack of images of the same scene captured at differen
 <br/>
 <img src="/images/ldrhdr.png" alt="LDR and HDR Image Comparison">
 <br/>
-<sub>Image (a) is an LDR, and Image (b) is an HDR. (Image Source: <a href="https://doi.org/10.1007/s11554-019-00855-0" target="_blank">A fast coding method for distortion-free data hiding in high dynamic range images</a>.)</sub>
+<sub>Image (a) is an LDR, and Image (b) is an HDR. (Image Source: <a href="https://doi.org/10.1007/s11554-019-00855-0" target="_blank">A fast coding method for distortion-free data hiding in high dynamic range images</a>)</sub>
 
