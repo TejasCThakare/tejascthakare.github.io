@@ -3,7 +3,7 @@ title: "The Leap of faith"
 excerpt: "First Edition<br/><img src='/images/tejasiitm-500x300.jpg'>"
 collection: portfolio
 ---
-<br/><img src='/images/tejasiitm-500x300.jpg'><br/
+<br/><img src='/images/tejasiitm-500x300.jpg'><br/>
 I was in the last semester of my MSc at IIT Bhubaneswar. It was quite a hectic time since I was working on my project and constantly questioning what I would do after my MSc. However, during my MSc period, I developed an interest in the pure tech field. Until that point, I had been deeply involved in rigorous mathematics and theoretical physics (if I may say, I was doing fancy stuff). I wanted to transition into the tech industry, specifically AI.
 
 I had already decided to pursue an MTech, and admission to MTech programs at IITs/NITs obviously required a good GATE score. Since I was in my last semester and occupied with my project, the GATE exam was just 14-15 days away. I remember one fine morning when I woke up and decided to crack GATE at any cost one more time with a good score. (I had already cleared GATE before joining my MSc.) My goal was to secure admission to a reputed institute in Data Science or a technical background—one way or another, I wanted to join a technical course to transition into the tech world, especially AI. 
