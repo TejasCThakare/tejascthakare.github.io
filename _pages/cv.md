@@ -2,7 +2,7 @@
 
 Indian Institute of Technology Madras  
 Chennai, Tamil Nadu, India  
-H +91-8796784098 • B tejas2iitmadras@gmail.com  
+Contact: +91-8796784098 • Mail: tejas2iitmadras@gmail.com  
 Í www.linkedin.com/in/tejas-t-722758204 • Í www.github.com/TejasCThakare  
 
 ---
