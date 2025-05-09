@@ -9,14 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-%# Tejas Chandrakant Thakare
-
-%Indian Institute of Technology Madras  
-%Chennai, Tamil Nadu, India  
-%[Mail](mailto:tejas2iitmadras@gmail.com)
-
-  
 ---
 
 ## Education
