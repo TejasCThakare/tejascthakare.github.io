@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-# Tejas Chandrakant Thakare
+%# Tejas Chandrakant Thakare
 
-Indian Institute of Technology Madras  
-Chennai, Tamil Nadu, India  
-[Mail](mailto:tejas2iitmadras@gmail.com)
+%Indian Institute of Technology Madras  
+%Chennai, Tamil Nadu, India  
+%[Mail](mailto:tejas2iitmadras@gmail.com)
 
   
 ---
