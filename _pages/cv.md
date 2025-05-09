@@ -98,27 +98,27 @@ Secondary | Maharashtra State Board | 90.20% | 2015
 
 ### 1. Pattern Recognition and Machine Learning (PRML) January 2024–April 2024  
 (CS5691) IIT Madras  
-{ Built classification models like Naive Bayes, KNN, Logistic Regression, and Random Forest. Implemented Ridge, Lasso Regression, K-Means, PCA, DBSCAN, and GMM.  
+- Built classification models like Naive Bayes, KNN, Logistic Regression, and Random Forest. Implemented Ridge, Lasso Regression, K-Means, PCA, DBSCAN, and GMM.  
 
 ### 2. Computational Photography January 2024–April 2024  
 (EE5176) IIT Madras  
-{ Worked on image reconstruction and enhancement techniques including demosaicing, denoising, alpha matting, motion deblurring, and compositing. Explored concepts such as Bayer pattern processing, tone mapping, HDR imaging, coded aperture, and light field imaging in computational photography.  
+- Worked on image reconstruction and enhancement techniques including demosaicing, denoising, alpha matting, motion deblurring, and compositing. Explored concepts such as Bayer pattern processing, tone mapping, HDR imaging, coded aperture, and light field imaging in computational photography.  
 
 ### 3. Image Signal Processing (ISP) January 2024–April 2024  
 (EE5157) IIT Madras  
-{ Performed image processing in Python: geometric transforms, mosaicing, shape from focus, invariant blurring, Otsu’s thresholding, and occlusion detection.  
+- Performed image processing in Python: geometric transforms, mosaicing, shape from focus, invariant blurring, Otsu’s thresholding, and occlusion detection.  
 
 ### 4. Natural Language Processing January 2024–April 2024  
 (CS6370) IIT Madras  
-{ Built a Python-based search engine with NLP modules (segmentation, tokenization, lemmatization, stopword removal, spell correction) using NLTK, TF-IDF, and WordNet for semantic query matching.  
+- Built a Python-based search engine with NLP modules (segmentation, tokenization, lemmatization, stopword removal, spell correction) using NLTK, TF-IDF, and WordNet for semantic query matching.  
 
 ### 5. Data Analysis & Visualization in R/Python/SQL (DAV) January 2024–April 2024  
 (MA5755) IIT Madras  
-{ Built a neural network from scratch for handwritten digit recognition with 87% training and 86% test accuracy.  
+- Built a neural network from scratch for handwritten digit recognition with 87% training and 86% test accuracy.  
 
 ### 6. Probability Foundations for Electrical Engineers July 2023 – November 2023  
 (EE5110) IIT Madras  
-{ Explored probability theory from fundamentals (expectation, variance, distributions) to advanced topics including joint/multivariate distributions, variable transformations, LLN, and probabilistic inequalities.  
+- Explored probability theory from fundamentals (expectation, variance, distributions) to advanced topics including joint/multivariate distributions, variable transformations, LLN, and probabilistic inequalities.  
 
 ---
 
