@@ -2,6 +2,8 @@
 
 Indian Institute of Technology Madras  
 Chennai, Tamil Nadu, India  
+[Mail](mailto:tejas2iitmadras@gmail.com)
+
   
 ---
 
