@@ -2,10 +2,7 @@
 
 Indian Institute of Technology Madras  
 Chennai, Tamil Nadu, India  
-Mail: tejas2iitmadras@gmail.com  
-www.linkedin.com/in/tejas-t-722758204 
-www.github.com/TejasCThakare  
-
+  
 ---
 
 ## Education
