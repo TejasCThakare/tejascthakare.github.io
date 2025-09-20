@@ -15,7 +15,7 @@ redirect_from:
 
 **Program** | **Institution/Board** | **%/CGPA** | **Year**  
 --- | --- | --- | ---  
-M.Tech. (Electrical Engineering) | IIT Madras, Chennai, India | 8.24/10 | 2023-25  
+M.Tech. (Electrical Engineering) | IIT Madras, Chennai, India | 8.35/10 | 2023-25  
 M.Sc. (Physics) | IIT Bhubaneswar, Odisha, India | 7.84/10 | 2021-23  
 B.Sc. (Physics, Statistics and Math) | KTHM College (Pune University) | 87.26% | 2017-20  
 Higher Secondary | Maharashtra State Board | 72.46% | 2017  
@@ -30,18 +30,21 @@ Secondary | Maharashtra State Board | 90.20% | 2015
 (M.Tech / Guide: Prof. Kaushik Mitra) IIT Madras  
 **Keywords:** 3D HDR Reconstruction, Point Clouds, Gaussian Splatting, NeRF, HDR  
 
-- Investigated the limitations of NeRF for HDR scene reconstruction and explored alternative representations for static and dynamic 3D scenes. Developed a comprehensive understanding of radiance fields, tone mapping, and multi-exposure fusion techniques.  
-- Proposed a novel dual-path pipeline combining Mertens exposure stacking with 3D Gaussian Splatting for real-time HDR rendering. Achieved PSNR of 37.129 on static scenes, outperforming HDR-GS (35.47) with superior fidelity and efficiency.  
-- Extended the 4D Gaussian Splatting framework to support 16-bit dynamic HDR inputs using a self-captured dataset. Enabled temporally consistent HDR synthesis for dynamic scenes. Also developed novel pipeline for HDR-Dynamic novel view synthesis  
+- Researched Neural Radiance Fields (NeRF) and HDR-NeRF for dynamic 3D HDR scene reconstruction; identified limitations that motivated the adoption of the Gaussian Splatting approach. 
+-  Designed dual-path 3D HDR reconstruction pipeline combining exposure stacking, 3D Gaussian Splatting, and
+tone-mapping supervision; achieved PSNR 37.129 vs baseline 35.47, improving rendering fidelity and computational
+efficiency
+- Extended 4D Gaussian Splatting pipeline for 16-bit dynamic self-captured datasets; incorporated HexPlane for
+spatio-temporal encoding and HDR-GS-inspired spherical harmonics for HDR color representation
 
 ### 2. Analysis and Implementation of Machine Learning Model on CERN’s Big Datasets  
 **Jun’22-May’23**  
 (M.Sc / Guide: Prof. Seema Bahinipati) IIT Bhubaneswar  
 **Keywords:** Big Data Analysis, EDA, Machine Learning  
 
-- Handled petabyte-scale datasets from CERN, performed Exploratory Data Analysis to extract meaningful insights.  
-- Identified key features; optimized model input and enhanced the performance of the Boosted Decision Tree algorithm.  
-- The applied Boosted Decision Tree model achieved a 0.98 ROC value, effectively classifying signal and noise.  
+- Processed and analyzed CERN’s petabyte-scale datasets to extract key insights through EDA and feature engineering.
+- Otimized model inputs and hyperparameters to enhance model performance for signal vs noise classification.
+- Achieved ROC-AUC of 0.98, demonstrating robust classification of noise and signal in large-scale datasets. 
 
 ### 3. The Exponentially Changing Periodic Probability Density Function (PDF)  
 **Nov’18-Mar’19**  
@@ -54,28 +57,28 @@ Secondary | Maharashtra State Board | 90.20% | 2015
 
 ---
 
-## Personal Projects
+## Personal Projects  
 
 ### 1. Attention-Guided Hybrid Retinex for Low-Light Image Enhancement  
-**Keywords:** Image Enhancement, Image Restoration, Vision   
+**Keywords:** Attention, Image Enhancement, Computer Vision, PyTorch  
 
-- Designed a deep learning model that enhances dark, low-light images via Retinex-based decomposition, illumination relighting, and fusion.  
-- Integrated attention-guided illumination refinement and multi-scale residual learning for adaptive brightness correction and texture, color preservation.  
-- Achieved 21+ PSNR and 0.8+ SSIM on LOL-v1 with a full PyTorch pipeline for training, inference, evaluation, and visual diagnostics.  
+- Developed a deep learning model for low-light image enhancement using Retinex decomposition, attention mechanisms, illumination relighting, and image fusion.  
+- Implemented multi-scale residual learning and attention-guided illumination refinement to achieve adaptive brightness correction, texture preservation, and color enhancement under challenging lighting.  
+- Achieved **PSNR 21+** and **SSIM 0.8+** on the LOL-v1 benchmark with a complete PyTorch pipeline for training, inference, evaluation, and visualization.  
 
-### 2. GAN-Based Multi-Exposure Prediction for HDR Imaging  
-**Keywords:** Generative Model, Deep Learning, CNN, HDR 
+### 2. GAN-Based Multi-Exposure Image Generation for HDR Imaging  
+**Keywords:** Generative AI, Deep Learning, GAN, CNN, HDR Imaging  
 
-- Developed a GAN-based model to predict a full 5-level multi-exposure image stack from a single LDR input for HDR-related imaging applications.  
-- Designed a convolutional encoder–decoder generator to synthesize photorealistic exposure variations that simulate real-world camera bracketing.  
-- Integrated a PatchGAN-style discriminator to assess global structure and local texture consistency across predicted exposure stacks.  
+- Built a GAN model to predict full 5-level multi-exposure stacks from a single LDR input for HDR imaging and computational photography.  
+- Designed a convolutional encoder–decoder generator with skip connections to generate photorealistic exposure variations simulating real-world camera bracketing.  
+- Implemented a PatchGAN discriminator with adversarial training to ensure both global and local consistency in the predicted exposure stacks.  
 
 ### 3. Lung Cancer Detection Using CNN  
-**Keywords:** Classification, Medical Imaging, CNN 
+**Keywords:** Medical Imaging, Classification, Computer Vision, CNN, Healthcare  
 
-- Developed a CNN for lung cancer classification, achieving 92% validation accuracy on microscopic lung images.  
-- Achieved 97%, 87%, and 91% F1-scores for three lung cancer types, demonstrating strong model performance.  
-- Boosted efficiency with regularization & augmentation, achieving 92% macro-average precision, recall, & F1-score.  
+- Developed a CNN model to classify microscopic histopathological lung tissue images, achieving **92% validation accuracy** for lung cancer detection.  
+- Obtained **F1-scores of 97%, 87%, and 91%** for adenocarcinoma, squamous cell carcinoma, and large cell carcinoma, ensuring robust performance across cancer subtypes.  
+- Improved model robustness and interpretability using regularization, data augmentation, and optimization strategies, validated with confusion matrices and classification reports.   
 
 ### 4. Autocorrect System  
 **Keywords:** NLP, Text Processing 
@@ -132,31 +135,30 @@ Secondary | Maharashtra State Board | 90.20% | 2015
 
 - Data Structures and Algorithms in Python  
 - Computer Vision with OpenCV and Deep Learning  
-- Machine Learning, Data Science and Deep Learning  
-- Data-Driven Astronomy (University of Sydney)  
+- Machine Learning, Data Science and Deep Learning   
 
 ---
 
-## Technical Skills
+## Technical Skills  
 
-- Programming Languages: Python, SQL, C++, MATLAB  
-- Libraries: NumPy, Pandas, Matplotlib, TensorFlow  
-- Deep Learning & ML: Scikit-Learn, PyTorch, Keras  
-- Tools: MS Excel, PowerPoint, Word, Power BI  
-- NLP & Vision: NLTK, spaCy, OpenCV, Pillow, scikit-image, imageio  
-
----
-
-## Positions of Responsibility
-
-- Teaching Assistant: Designed quizzes and assignments for Modern Computer Vision course; supported 100+ students.  
-- Student Placement Coordinator: Coordinated placement season of IIT Bhubaneswar, handling over 200+ students.  
-- Assistant Coordinator, Counseling Service Team: Guided over 80+ freshers on-campus at IIT Bhubaneswar.  
+- **Programming Languages:** Python, SQL, C++  
+- **Libraries:** NumPy, Pandas, Matplotlib  
+- **Deep Learning & ML:** Scikit-Learn, PyTorch, Keras, TensorFlow  
+- **Cloud & DevOps:** GCP, Azure DevOps, Docker, MLOps  
+- **NLP & Vision:** NLTK, spaCy, OpenCV, Pillow, scikit-image, imageio  
 
 ---
 
-## Achievements / Awards
+## Leadership & Responsibilities  
 
-- All India Rank - 617 in IIT-JAM 2021 Entrance Examination conducted by IISc Bangalore.  
-- First Prize in Poster Presentation Competition held at Sandip University, Nashik.  
-- Published 3 Scientific Articles during B.Sc.  
+- **Teaching Assistant:** Designed quizzes and assignments for *Modern Computer Vision* course; supported 100+ students.  
+- **Student Placement Coordinator:** Coordinated the placement season at IIT Bhubaneswar, handling over 200+ students.  
+- **Assistant Coordinator, Counseling Service Team:** Guided over 80+ freshers on-campus at IIT Bhubaneswar.  
+
+---
+
+## Awards & Achievements  
+
+- **Competitive Exam Achievements:** IIT-JAM 2021 (*Top 4%*), GATE 2023 (*Top 7%*).  
+- **Poster Presentation:** First Prize at Sandip University, Nashik.  
+- **Publications:** Published 3 scientific articles during B.Sc.  
